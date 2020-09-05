@@ -1,7 +1,7 @@
 # MNIST-Handwritten-digits-Classification-Using-KNN-
 
 ## Introduction
-The MNIST dataset contains black and white images ofhandwritten disgits from 0 - 9. The dataset can be divided into two groups. A group of 60,000 for training the model and an additional 10,000 for testing. In here, I have used a module called input_data which originally can be found here:- https://github.com/tensorflow/tensorflow/blob/r0.7/tensorflow/examples/tutorials/mnist/input_data.py. 
+The MNIST dataset contains black and white images of handwritten digits from 0 - 9. The dataset can be divided into two groups. A group of 60,000 for training the model and an additional 10,000 for testing. In here, I have used a module called input_data which originally can be found here:- https://github.com/tensorflow/tensorflow/blob/r0.7/tensorflow/examples/tutorials/mnist/input_data.py. 
 
 
 ## The Nearest Neighbor Algorithm
